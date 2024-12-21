@@ -21,13 +21,8 @@ public class MainActivity extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
-<<<<<<< HEAD
 
         Toast.makeText(this, "Abc", Toast.LENGTH_SHORT).show();
         System.out.printf("Hello, %s!", "world lan 3");
-
-=======
-        System.out.printf("Hello, %s!", "world lan 2");
->>>>>>> f9e00a882cc46e690b75754b86de88b79f99c533
     }
 }

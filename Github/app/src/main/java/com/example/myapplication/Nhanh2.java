@@ -5,4 +5,6 @@ import android.widget.Toast;
 
 public class Nhanh2 {
     System.out.printf("Hello, %s!", "world");
+    System.out.printf("Hello, %s!", "world");
+    System.out.printf("Hello, %s!", "world");
 }
